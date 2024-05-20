@@ -13,6 +13,15 @@
         android:theme="@style/Theme.Lab4_PH31990"
         tools:targetApi="31">
         <activity
+            android:name=".Bai2Lab4"
+            android:exported="false" />
+        <activity
+            android:name=".Bai1Lab4"
+            android:exported="false" />
+        <activity
+            android:name=".Bai3Lab4"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
